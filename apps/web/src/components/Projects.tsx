@@ -40,7 +40,7 @@ const Projects = () => {
         "A personal portfolio website built with React and Tailwind CSS to showcase my web development projects and skills in a clean, responsive layout.",
       technologies: ["React", "Tailwind CSS"],
       githubLink: "https://github.com/AzlanEh/Portfolio",
-      liveLink: "https://azlan-protfolio.vercel.app/",
+      liveLink: "https://vercel.com/azlanehs-projects/azlan-portfolio",
       features: [
         "A personal portfolio to showcase skills, projects, and contact info.",
         "Designed with a clean, modern layout and fully responsive.",
