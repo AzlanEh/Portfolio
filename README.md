@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines React, TanStack Router, and more.
 
@@ -8,6 +8,8 @@ This project was created with [Better-T-Stack](https://github.com/AmanVarshney01
 - **TanStack Router** - File-based routing with full type safety
 - **TailwindCSS** - Utility-first CSS for rapid UI development
 - **shadcn/ui** - Reusable UI components
+- **GSAP** - Animation library for smooth transitions
+- **Framer Motion** - Another animation library for animations
 - **Turborepo** - Optimized monorepo build system
 
 ## Getting Started
