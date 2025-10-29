@@ -148,7 +148,7 @@ const Contact = () => {
                     type="text"
                     id="name"
                     name="name"
-                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black"
+                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black text-black"
                     placeholder="Your full name"
                     required
                   />
@@ -165,7 +165,7 @@ const Contact = () => {
                     type="email"
                     id="email"
                     name="email"
-                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black"
+                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black text-black"
                     placeholder="your.email@example.com"
                     required
                   />
@@ -182,7 +182,7 @@ const Contact = () => {
                     id="message"
                     name="message"
                     rows={5}
-                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black resize-none"
+                    className="w-full px-4 py-3 border-2 border-gray-200 transition-colors duration-300 focus:outline-none focus:border-black resize-none text-black"
                     placeholder="Tell me about your project or opportunity..."
                     required
                   />
