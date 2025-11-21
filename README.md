@@ -43,9 +43,3 @@ portfolio/
 │   ├── web/         # Frontend application (React + TanStack Router)
 ```
 
-## Available Scripts
-
-- `pnpm dev`: Start all applications in development mode
-- `pnpm build`: Build all applications
-- `pnpm dev:web`: Start only the web application
-- `pnpm check-types`: Check TypeScript types across all apps
