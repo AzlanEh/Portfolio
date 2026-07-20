@@ -1,4 +1,3 @@
-// import { Link } from "@tanstack/react-router";
 import { ModeToggle } from "./mode-toggle";
 import { useState } from "react";
 
@@ -104,11 +103,9 @@ export default function Header() {
                 Contact
               </button>
             </div>
+            <ModeToggle />
           </div>
         )}
-        {/* <div className="flex items-center gap-2">
-          <ModeToggle />
-        </div> */}
       </nav>
     </header>
     // <div>

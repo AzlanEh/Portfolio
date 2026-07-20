@@ -61,14 +61,14 @@ const About = () => {
     //     </svg>
     //   ),
     // },
-    // {
-    //   name: "RESTful APIs",
-    //   logo: (
-    //     <svg className="w-8 h-8" viewBox="0 0 24 24" fill="#FF6B35">
-    //       <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
-    //     </svg>
-    //   ),
-    // },
+    {
+      name: "RESTful APIs",
+      logo: (
+        <svg className="w-8 h-8" viewBox="0 0 24 24" fill="#FF6B35">
+          <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z" />
+        </svg>
+      ),
+    },
   ];
 
   return (
@@ -82,11 +82,11 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-gray-700 text-lg leading-relaxed">
-                I'm a recent Commerce graduate with a deep interest in web
+                I'm a recent B.Tech graduate with a deep interest in
                 development. My coding journey began during college when I
                 started exploring HTML and CSS out of curiosity. Over time, I
-                fell in love with JavaScript and React, and now I enjoy building
-                clean, responsive, and user-friendly web interfaces.
+                fell in love with JavaScript/TypeScript and React, and now I
+                enjoy building clean, responsive, and user-friendly web interfaces.
               </p>
 
               <p className="text-gray-700 text-lg leading-relaxed">
