@@ -103,7 +103,7 @@ const Contact = () => {
                         href="https://github.com/AzlanEh"
                         className="text-gray-600 hover:text-black transition-colors"
                       >
-                        github.com/AzlanEh
+                        github.com/AzlanEht
                       </a>
                     </div>
                   </div>
